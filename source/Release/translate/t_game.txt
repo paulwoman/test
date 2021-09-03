@@ -1921,7 +1921,7 @@
 [3107]<ENBL>Enabled|
 [3108]<DISA>Disabled|
 [3109]<RETA>Retail Only|
-[3110]<TFNO>Sorry, you cannot transfer this factory as it is making #packaged software products#. A factory can only make packaged versions of software that is #developed by the same corporation#|
+[3110]<TFNO>Sorry, you cannot transfer this factory as it is making #packaged software products#. A factory can only make packaged versions of software that is #developed by the same corporation#.|
 [3111]<STB1>Sorry, you cannot execute this share buyback transaction, as a public company's total number of shares outstanding must not be lower than 1,000,000 shares.|
 [3112]<STB2>You cannot use a corporation that you control to buy back its own shares.|
 [3113]<MER1>How would you like|
@@ -2269,3 +2269,5 @@
 [3455]<SGT2>Challenge Game|
 [3456]<SGT3>Normal Savegame|
 [3457]<SCDL>Warning: Are you sure that you want to save a Challenge Game with DLC enabled?|
+[3458]<DLC5>The Experimental DLC is a special DLC that serves as a temporary place for new features to be experimented and tested before they would make their way to an official DLC.|
+[3459]<BFNO>Sorry, you cannot buy this factory as it is making #packaged software products#. A factory can only make packaged versions of software that is #developed by the same corporation#.|
