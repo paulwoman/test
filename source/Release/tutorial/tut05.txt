@@ -336,7 +336,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-When your company owns more than ~75%~ of another company, you will be able to execute a merger which will merge all of its business operations into your company, including all of its technological know-how.^^This makes mergers a highly effective way to expand your business empire rapidly.
+When your company owns more than ~75%~ of another company, you will be able to execute a marger which will merge all of its business operations into your company, including all of its technological know-how.^^This makes mergers a highly effective way to expand your business empire rapidly.
 [POS]
 Text Box=300,280,400,0
 Next Arrow=Yes

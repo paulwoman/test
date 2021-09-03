@@ -2271,13 +2271,3 @@
 [3457]<SCDL>Warning: Are you sure that you want to save a Challenge Game with DLC enabled?|
 [3458]<DLC5>The Experimental DLC is a special DLC that serves as a temporary place for new features to be experimented and tested before they would make their way to an official DLC.|
 [3459]<BFNO>Sorry, you cannot buy this factory as it is making #packaged software products#. A factory can only make packaged versions of software that is #developed by the same corporation#.|
-[3460]<SNRO>Show Natural Resources Only|
-[3461]<IBGR>Select a company under your group to show its cash and profit on the info bar.
-[3462]<MANN>Manage Now:|
-[3463]<WMAN>Will Manage:|
-[3464]<NFTM>Every New %1s|
-[3465]<ANFM>All New Firms|
-[3466]<SGOS>Please select a Goal Set for this game|
-[3467]<DBRW>$$ This is a priority goal. The reward for achieving this goal has been doubled.|
-
-
