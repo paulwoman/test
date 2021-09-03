@@ -43,7 +43,7 @@ Pointer=52,61,235,75
 //-------------------------------------------------------------------//
 
 [TEXT]
-As you've got more experienced in retailing, you can now choose from a range of retail store types to build, including department stores, convenience stores, supermarkets, discount megastore, and various types of specialty stores. 
+As you've got more experienced in retailing, you can now choose from a range of retail store types to build, including department stores, convenience stores, supermarkets, discount megastores, and various types of specialty stores. 
 
 [POS]
 Text Box=610,318,380,0
@@ -62,7 +62,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-However, specialty stores do have advantages over general stores. A specialty stores is more attractive to customers interested in such products.^^For example, a computer store selling computers should outsell an adjacent department store selling the same product. Differences in quality, price and brand may even things out but that's for a later tutorial. 
+However, specialty stores do have advantages over general stores. A specialty store is more attractive to customers interested in such products.^^For example, a computer store selling computers should outsell an adjacent department store selling the same product. Differences in quality, price and brand may even things out but that's for a later tutorial. 
 
 [POS]
 Text Box=610,318,380,0
@@ -274,7 +274,7 @@ Unit has item=4
 //-------------------------------------------------------------------//
 
 [TEXT]
-Great job! You have successfully upgraded your store's logistics and added a new product to your store.^^Next, let's have a look at the information available to you regarding the products your store is selling.
+Perfect! You have successfully upgraded your store's logistics and added a new product to your store.^^Next, let's have a look at the information available to you regarding the products your store is selling.
 
 [POS]
 Text Box=400,12,250,0
@@ -362,7 +362,7 @@ Pointer=595,360,675,440
 //-------------------------------------------------------------------//
 
 [TEXT]
-The ~Sales Unit~ basically shows the same information as the Purchasing unit. The ~Clear Stock~ button here, as its name suggests, is for clearing the Sales Unit's product stock.^^This is useful if you have located a better supply of the same product type and you wish to sell the new one as soon as possible. Clearing the stock in effect free up your retail shelves for the new product immediately.
+The ~Sales Unit~ basically shows the same information as the Purchasing unit. The ~Clear Stock~ button here, as its name suggests, is for clearing the Sales Unit's product stock.^^This is useful if you have located a better supply of the same product type and you wish to sell the new one as soon as possible. Clearing the stock in effect frees up your retail shelves for the new product immediately.
 
 [POS]
 Text Box=400,12,250,0
@@ -455,7 +455,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-There is more than one city in this tutorial. You should consider expanding your business to other cities, to take advantage of the availabiility of different products or perhaps the absence of strong competition.
+There is more than one city in this tutorial. You should consider expanding your business to other cities, to take advantage of the availability of different products or perhaps the absence of strong competition.
 
 [POS]
 Text Box=285,480,350,0
