@@ -153,7 +153,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.  
+You can see the current game date here.^^Note that the game runs in real time. You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.  
 
 [POS]
 Flex Text Box=80,500,400,0
@@ -257,7 +257,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode. 
+Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp (meaning Corporation)~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode. 
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -280,7 +280,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Click the ~My Firms~ button and the mini map display changes to show only ambient buildings and the firms you own. 
+Click the ~My Firms~ button. The mini map display will change to show only ambient buildings and the firms you own. 
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -392,7 +392,7 @@ Firm Build Count=Department Store, 2
 //-------------------------------------------------------------------//
 
 [TEXT]
-Congratulations! You have just expanded your business! You now have to set up products in your new department store. To so, simply repeat the steps that you just did for setting up your first department store.
+Congratulations! You have just expanded your business! You now have to set up products in your new department store. To do so, simply repeat the steps that you just did for setting up your first department store.
 
 [POS]
 Flex Text Box=300,280,400,0

@@ -311,11 +311,11 @@ Product Filter
 Toggle Product Filter to display locations of a specific product in the Mini Map. Right-click to set the filter based on the current firm's selected product.
 ~
 SFM_KPB
-Previous Building (hotkey: PgUp)
+Previous Building (hotkey: Up)
 Display the previous building - city view is centered on building
 ~
 SFM_KNB
-Next Building (hotkey: PgDn)
+Next Building (hotkey: Down)
 Display the next building - city view is centered on building
 ~
 SFM_SB
@@ -1060,8 +1060,8 @@ Interior view
 `
 ~
 PD_S_GRP
-Enable or disable product sale graph
-`
+Show or hide graphs for products. 
+The type of data displayed on the graphs follows your selection for the graph of the current product, which can be #profit#, #revenue#, or #quantity sold#.
 ~
 CDR_P_01
 Show products that your company produces or sells in retail sector
@@ -3479,4 +3479,44 @@ Click on a column header to sort the stock list.
 PRODOSAL
 The current store is already selling this product. 
 `
+~
+BONDSORT
+Change Sort Order 
+Click on a column header to sort the bond list. 
+~
+M_CASH
+Your Corporation's Cash
+This figure is the amount of cash that your corporation currently has. Click here to view its #Balance Sheet#. Press #Ctrl-X# to switch to subsidiary info.
+~
+M_PROFIT
+Your Corporation's Operating Profit
+This figure is your corporation's operating profit over the past 12 months. #Single click# here to view its #Income Statement#. Press #Ctrl-X# to switch to subsidiary info.
+~
+S_CASH
+Your Subsidiary's Cash
+This figure is the amount of cash that your subsidiary currently has. Click here to view its #Balance Sheet#. Press #Ctrl-X# to switch to main corporation or subsidiary info.
+~
+S_PROFIT
+Your Subsidiary's Operating Profit
+This figure is your subsidiary's operating profit over the past 12 months. #Single click# here to view its #Income Statement#. Press #Ctrl-X# to switch to main corporation or subsidiary info.
+~
+MAINCASH
+Your Corporation's Cash and Profit
+It now shows your Corporation's Cash and Operating Profit. #Click here# or press #Ctrl-X# to switch to subsidiary info.
+~
+SUBCASH
+Your Subsidiary's Cash and Profit
+It now shows your Subsidiary's Cash and Operating Profit. #Click here# or press #Ctrl-X# to switch to main corporation or subsidiary info.
+~
+MANAGNOW
+Manage Now 
+Assign the selected person to manage the specified firm(s) now. 
+~
+WILLMANA
+Will Manage 
+You can appoint a person to manage all newly-built firms. Note that the appointment for managing #Every New Firms of a Specific Type# supersedes the appointment for managing #All New Firms#. 
+~
+GOALICLA
+Goal 
+To achieve a #Market Dominance Goal#, you must have the highest market shares for #All the Product Types# within the product class. 
 ~
